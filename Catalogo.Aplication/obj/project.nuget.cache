@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NhvvhwwpSShtLYZOtP4be4z9F7eMvb+Exc8HFqz6c1PETGaUhULOXsEuDw9vzl/EG90j41+SBg+cAY9U6ZyjFw==",
+  "dgSpecHash": "TOmSP5DKIEx7g2aFXP9+lWwNr7WO1crRjGu+ZmVhFz4+cXYeDrfVCDTdrUSTeQa0oqQb1B98MPCXPcQXAJ4XAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Catalogo.Aplication\\Catalogo.Aplication.csproj",
+  "projectFilePath": "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Catalogo.Aplication\\Catalogo.Aplication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

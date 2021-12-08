@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "klkpggEh79TSgAQugSbPQcqyITJiAx2w8CHvhZC6SoRpNOq81LQugyWMg/8O1+SMCfWvbVJIlBmkI+Ff14DH9Q==",
+  "dgSpecHash": "D+MOyP0zAoyuFgIzxYkahIEmQCqtFR/oTyNkrknDDz8vFLtXrXXw57ptVT+kcnn2ikIYG9l8QL3gnnLGhfVt0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Catalago.CrossCutting\\Catalago.CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Catalago.CrossCutting\\Catalago.CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

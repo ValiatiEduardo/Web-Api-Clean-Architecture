@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Ctalogo.Infrastructure\\Ctalogo.Infrastructure.csproj": {}
+    "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Ctalogo.Infrastructure\\Ctalogo.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Ctalogo.Domain\\Catalogo.Domain.csproj": {
+    "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Ctalogo.Domain\\Catalogo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Ctalogo.Domain\\Catalogo.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Ctalogo.Domain\\Catalogo.Domain.csproj",
         "projectName": "Catalogo.Domain",
-        "projectPath": "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Ctalogo.Domain\\Catalogo.Domain.csproj",
+        "projectPath": "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Ctalogo.Domain\\Catalogo.Domain.csproj",
         "packagesPath": "C:\\Users\\BTI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Ctalogo.Domain\\obj\\",
+        "outputPath": "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Ctalogo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Ctalogo.Infrastructure\\Ctalogo.Infrastructure.csproj": {
+    "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Ctalogo.Infrastructure\\Ctalogo.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Ctalogo.Infrastructure\\Ctalogo.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Ctalogo.Infrastructure\\Ctalogo.Infrastructure.csproj",
         "projectName": "Ctalogo.Infrastructure",
-        "projectPath": "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Ctalogo.Infrastructure\\Ctalogo.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Ctalogo.Infrastructure\\Ctalogo.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\BTI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Ctalogo.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Ctalogo.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Ctalogo.Domain\\Catalogo.Domain.csproj": {
-                "projectPath": "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Ctalogo.Domain\\Catalogo.Domain.csproj"
+              "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Ctalogo.Domain\\Catalogo.Domain.csproj": {
+                "projectPath": "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Ctalogo.Domain\\Catalogo.Domain.csproj"
               }
             }
           }

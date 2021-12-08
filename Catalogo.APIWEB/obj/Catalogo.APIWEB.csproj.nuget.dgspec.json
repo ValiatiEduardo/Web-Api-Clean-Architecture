@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Catalogo.APIWEB\\Catalogo.APIWEB.csproj": {}
+    "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Catalogo.APIWEB\\Catalogo.APIWEB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Catalogo.APIWEB\\Catalogo.APIWEB.csproj": {
+    "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Catalogo.APIWEB\\Catalogo.APIWEB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Catalogo.APIWEB\\Catalogo.APIWEB.csproj",
+        "projectUniqueName": "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Catalogo.APIWEB\\Catalogo.APIWEB.csproj",
         "projectName": "Catalogo.APIWEB",
-        "projectPath": "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Catalogo.APIWEB\\Catalogo.APIWEB.csproj",
+        "projectPath": "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Catalogo.APIWEB\\Catalogo.APIWEB.csproj",
         "packagesPath": "C:\\Users\\BTI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Catalogo.APIWEB\\obj\\",
+        "outputPath": "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Catalogo.APIWEB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

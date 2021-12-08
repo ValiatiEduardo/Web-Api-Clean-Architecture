@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "63L9DuzKAr50AfSCBRkJcR+4Zoj8kmE9JuNjrrvBLuGk2X8KTtXWsi6xWFcUWph+vK2OXuJpZcVlCcU9thDdDw==",
+  "dgSpecHash": "YxImERNcaQp2XKqF7mYe8ux3tj6cXf43dz6v0UKLFSR5epvssrT655n1NuGAcS+eqJaqmhRtsnkthgr+E2RTKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BTI\\source\\repos\\Web-Api-Clean-Architecture\\Catalogo.APIWEB\\Catalogo.APIWEB.csproj",
+  "projectFilePath": "C:\\Users\\BTI\\Source\\Repos\\Web-Api-Clean-Architecture\\Catalogo.APIWEB\\Catalogo.APIWEB.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
